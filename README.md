@@ -7,6 +7,7 @@ Due to some partnership complications, I (Ben Carrillo) was working on the proje
 joined our group at the beginning of November and helped me "finish" the website. Sam and I had no experience of coding before this class so our websites foundation was somewhat lackluster. We wished that we would have had more time to study and understand how exactly coding a website works before we went into making one. We focused too much on design and aesthetics and didnt realize the importance of functionality. Because of this it was very hard to style and make responsive. We also did not know about the responsive view button and were designing the responsive by sliding the tab to the left and slimming it down. We learned about the responsive view button in the firefox developer tools a few days before.
 
 Pages Created by Sam: About Page, Menu Page, Events Page
+
 Pages Created by Ben: Home Page, Contact Page, Gallery Page, Merchandise Page, Events Page, Menu Page
 
 RESOURCES
